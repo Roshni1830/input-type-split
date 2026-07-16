@@ -1,0 +1,97 @@
+body{
+
+    background:#f2f2f2;
+
+    font-family:Arial;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    height:100vh;
+
+}
+
+.card{
+
+    background:white;
+
+    width:380px;
+
+    padding:30px;
+
+    border-radius:20px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+
+    text-align:center;
+
+}
+
+canvas{
+
+    width:200px !important;
+
+    height:200px !important;
+
+    margin:auto;
+
+}
+
+.legend{
+
+    margin-top:20px;
+
+}
+
+.item{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    margin:10px;
+
+}
+
+.dot{
+
+    width:15px;
+
+    height:15px;
+
+    border-radius:50%;
+
+    margin-right:10px;
+
+}
+
+.purple{
+
+    background:#8A2BE2;
+
+}
+
+.green{
+
+    background:#6CC04A;
+
+}
+
+.bottomText{
+
+    margin-top:25px;
+
+    font-size:18px;
+
+}
+
+.bottomText b{
+
+    color:#7b2cbf;
+
+}
