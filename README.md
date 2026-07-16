@@ -15,3 +15,5 @@
 - JavaScript
 - Chart.js
 - PostgreSQL
+
+## Loader task completed
